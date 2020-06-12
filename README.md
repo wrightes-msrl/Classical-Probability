@@ -8,4 +8,4 @@ Matlab examples for computing probabilities classically. Taken from "Probability
 
 **softwareEngineering.mlx:** MATLAB LiveScript that computes selected classical probabilities with the aid of the multiplication rule, factorials, permutations, and combinations.
 
-**softwareEngineering.m:* MATLAB script that performs the same functionality as softwareEngineering.mlx.
+**softwareEngineering.m:** MATLAB script that performs the same functionality as softwareEngineering.mlx.
